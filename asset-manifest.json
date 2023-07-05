@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/floweringtreant/static/css/main.17bd1dbf.css",
+    "main.js": "/floweringtreant/static/js/main.fad761c4.js",
+    "static/media/Trajan.ttf": "/floweringtreant/static/media/Trajan.45cb6689c0b3aa21bd31.ttf",
+    "static/media/FuturaLTProBook.otf": "/floweringtreant/static/media/FuturaLTProBook.f71671438aee8a137ac0.otf",
+    "index.html": "/floweringtreant/index.html",
+    "main.17bd1dbf.css.map": "/floweringtreant/static/css/main.17bd1dbf.css.map",
+    "main.fad761c4.js.map": "/floweringtreant/static/js/main.fad761c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17bd1dbf.css",
+    "static/js/main.fad761c4.js"
+  ]
+}
